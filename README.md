@@ -8,11 +8,12 @@
 ### 自定义滤镜
     在utils/DataHandler下的static代码块，任意添加或删除滤镜。
 ``` //name,filterType,0
-  filters.add(new FilterEffect("原图", GPUImageFilterTools.FilterType.NORMAL, 0)); ```
-#### FilterType 滤镜类型
+  filters.add(new FilterEffect("原图", GPUImageFilterTools.FilterType.NORMAL, 0)); 
+```
+### FilterType 滤镜类型
 ### 感谢以上作者
 * https://github.com/CyberAgent/android-gpuimage
 * https://github.com/xiangzhihong/gpuImage
 
----
-  如有任何侵权，请联系作者删除。
+
+如有任何侵权，请联系作者删除。
