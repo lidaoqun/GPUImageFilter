@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GpuImage.iml" filepath="$PROJECT_DIR$/GpuImage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HListView/HListView.iml" filepath="$PROJECT_DIR$/../HListView/HListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ImageViewTouch/ImageViewTouch.iml" filepath="$PROJECT_DIR$/../ImageViewTouch/ImageViewTouch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../app/app.iml" filepath="$PROJECT_DIR$/../../app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../gpuImage.iml" filepath="$PROJECT_DIR$/../../gpuImage.iml" />
+    </modules>
+  </component>
+</project>
